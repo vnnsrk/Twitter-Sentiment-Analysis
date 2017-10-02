@@ -12,4 +12,4 @@ The goal of the project is to identify if we can detect the user partitions belo
 
 # Execution 
 
-`python twitter-sentiment-analysis`
+`python twitter-sentiment-analysis.py`
